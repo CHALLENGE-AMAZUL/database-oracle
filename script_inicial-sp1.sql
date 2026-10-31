@@ -301,5 +301,3 @@ JOIN tb_fonte f
     ON af.fonte_id = f.id
 GROUP BY f.id, f.titulo
 ORDER BY qtdartigos DESC; 
-     
-
